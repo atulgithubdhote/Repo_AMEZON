@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T18:23:32 IST" name="Suite" finished-at="2022-10-07T18:24:47 IST" duration-ms="74244">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T18:23:32 IST" name="Test" finished-at="2022-10-07T18:24:47 IST" duration-ms="74244">
+      <class name="test.TestNGmobileshoping">
+        <test-method is-config="true" signature="lounchbrowser()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:23:32 IST" name="lounchbrowser" finished-at="2022-10-07T18:23:34 IST" duration-ms="1788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchbrowser -->
+        <test-method is-config="true" signature="gotomobile()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:23:34 IST" name="gotomobile" finished-at="2022-10-07T18:23:37 IST" duration-ms="2635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotomobile -->
+        <test-method signature="test1mobileclick()[pri:1, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:23:37 IST" name="test1mobileclick" finished-at="2022-10-07T18:23:57 IST" duration-ms="20085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1mobileclick -->
+        <test-method is-config="true" signature="gotomobile()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:23:57 IST" name="gotomobile" finished-at="2022-10-07T18:24:00 IST" duration-ms="3181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotomobile -->
+        <test-method signature="movetoelectronics()[pri:2, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:00 IST" name="movetoelectronics" finished-at="2022-10-07T18:24:06 IST" duration-ms="5808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movetoelectronics -->
+        <test-method is-config="true" signature="gotomobile()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:06 IST" name="gotomobile" finished-at="2022-10-07T18:24:08 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotomobile -->
+        <test-method signature="clicksmartphone()[pri:3, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:08 IST" name="clicksmartphone" finished-at="2022-10-07T18:24:16 IST" duration-ms="8204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicksmartphone -->
+        <test-method is-config="true" signature="gotomobile()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:16 IST" name="gotomobile" finished-at="2022-10-07T18:24:18 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotomobile -->
+        <test-method signature="clicksmphone()[pri:4, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:18 IST" name="clicksmphone" finished-at="2022-10-07T18:24:35 IST" duration-ms="16893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicksmphone -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.TestNGmobileshoping@4afcd809]" started-at="2022-10-07T18:24:35 IST" name="closebrowser" finished-at="2022-10-07T18:24:36 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.TestNGmobileshoping -->
+      <class name="test.TestnGG">
+        <test-method is-config="true" signature="lounchbrowser()[pri:0, instance:test.TestnGG@408d971b]" started-at="2022-10-07T18:24:36 IST" name="lounchbrowser" finished-at="2022-10-07T18:24:37 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchbrowser -->
+        <test-method is-config="true" signature="gotoactionclasselement()[pri:0, instance:test.TestnGG@408d971b]" started-at="2022-10-07T18:24:37 IST" name="gotoactionclasselement" finished-at="2022-10-07T18:24:39 IST" duration-ms="1482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoactionclasselement -->
+        <test-method signature="test1()[pri:0, instance:test.TestnGG@408d971b]" started-at="2022-10-07T18:24:39 IST" name="test1" finished-at="2022-10-07T18:24:42 IST" duration-ms="3478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="gotoactionclasselement()[pri:0, instance:test.TestnGG@408d971b]" started-at="2022-10-07T18:24:42 IST" name="gotoactionclasselement" finished-at="2022-10-07T18:24:45 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoactionclasselement -->
+        <test-method signature="test2()[pri:0, instance:test.TestnGG@408d971b]" started-at="2022-10-07T18:24:45 IST" name="test2" finished-at="2022-10-07T18:24:47 IST" duration-ms="1529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- test.TestnGG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
